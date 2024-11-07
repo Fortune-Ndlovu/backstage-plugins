@@ -8273,7 +8273,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@janus-idp/backstage-plugin-orchestrator-form-react@^1.4.1, @janus-idp/backstage-plugin-orchestrator-form-react@workspace:plugins/orchestrator-form-react":
+"@janus-idp/backstage-plugin-orchestrator-form-react@^1.4.2, @janus-idp/backstage-plugin-orchestrator-form-react@workspace:plugins/orchestrator-form-react":
   version: 0.0.0-use.local
   resolution: "@janus-idp/backstage-plugin-orchestrator-form-react@workspace:plugins/orchestrator-form-react"
   dependencies:
@@ -8342,7 +8342,7 @@ __metadata:
     "@backstage/types": 1.1.1
     "@janus-idp/backstage-plugin-orchestrator-common": ^1.23.1
     "@janus-idp/backstage-plugin-orchestrator-form-api": ^1.4.1
-    "@janus-idp/backstage-plugin-orchestrator-form-react": ^1.4.1
+    "@janus-idp/backstage-plugin-orchestrator-form-react": ^1.4.2
     "@kie-tools-core/editor": ^0.32.0
     "@kie-tools-core/notifications": ^0.32.0
     "@kie-tools-core/react-hooks": ^0.32.0
