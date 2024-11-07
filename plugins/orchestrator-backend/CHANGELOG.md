@@ -1,5 +1,11 @@
 ### Dependencies
 
+## 4.1.0
+
+### Minor Changes
+
+- 603a162: make error handling consistent in backend and UI
+
 ## 4.0.1
 
 ### Patch Changes

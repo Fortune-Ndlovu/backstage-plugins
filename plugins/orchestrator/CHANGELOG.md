@@ -1,5 +1,17 @@
 ### Dependencies
 
+## 2.4.0
+
+### Minor Changes
+
+- 603a162: make error handling consistent in backend and UI
+
+### Patch Changes
+
+- 8a76b49: Makes very long workflow result messages still readable.
+- Updated dependencies [aee9d4a]
+  - @janus-idp/backstage-plugin-orchestrator-form-react@1.4.2
+
 ## 2.3.2
 
 ### Patch Changes
